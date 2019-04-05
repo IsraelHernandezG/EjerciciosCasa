@@ -1,0 +1,14 @@
+- Cambio de iluminación:
+El cambio del tipo de fuente de luz se realiza con las teclas "Z", "X" y "C"
+"Z" -> luz posicional
+"X" -> luz direccional
+"C" -> spotlight
+
+Adicionalmente, con el teclado numérico se puede controlar la rotación de la cámara de 
+forma independiente.
+Direccion del giro:
+"4" -> izquierda
+"6" -> derecha
+"8" -> arriba
+"2" -> abajo	
+ 
